@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = 
-ADMIN        = 
-CHANNEL      = "codeflix_bots"
+API_ID       = "28243586"
+API_HASH     = "4022d5686b9b7a7cf8891205921a0ab3"
+BOT_TOKEN    = "8016430192:AAHxyVtF2WG7kq7C6jGR4iH1NtLH2MU5n6w"
+SESSION      = "AQGu9oIAbvUlxY5pSOU2tOJPYYYtDnz3Wob650nZxz8m6FF485pOwnuR5kmHsFS6Z6gz7GkHH0YWPw8dMhJUvihENgv1taHlF4VddS4GKQ0dxV3qX9JDVRC1WV5poTmez1dfqYUj7BDtoGOvZDdo7BjVxhhhCOyXLcHhugTIc4T67ZGAWNpERV4scCQGU8WhFccqNcWF0MF72Lp3SkTUm4UeRmyFr2rcUd-yJXAl6xVgj7xxQJweHR2sWW5kopYuuIQ3F-LLOE6ue8vHlCLDLVEncnI9uTtb48NJntGXiK9WzstSVMaSaV6nKET_1mmaLA_bdJh9nONLW6PPstu4NbI3hXHHFgAAAAFZFXRRAA"
+DATABASE_URI = "mongodb+srv://madarazbotz:5ReTyXqL2iLZ6jZD@cluster0.ehgdf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = "-1002356823829"
+ADMIN        = "7357726710"
+CHANNEL      = "gjksdnKNk"
